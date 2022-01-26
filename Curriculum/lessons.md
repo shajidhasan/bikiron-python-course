@@ -12,7 +12,7 @@
 9. Hello World Program
 
 ### Day 2
-1. How the program is interpreted
+1. How a program is interpreted
 2. The Python interpreter
 3. Variables
 4. Numbers and arithmetics
