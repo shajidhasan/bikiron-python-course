@@ -9,12 +9,12 @@
 6. What you'll be able to do after this course
 7. Installation
 8. Executing a Python program
-9. The Python Interpreter
-10. Hello World Program
+9. Hello World Program
 
 ### Day 2
 1. How the program is interpreted
-2. Variables
+2. The Python interpreter
+3. Variables
 4. Numbers and arithmetics
 5. Strings
 6. String manipulation
