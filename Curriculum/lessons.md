@@ -20,7 +20,7 @@
 6. String manipulation
 
 ### Day 3
-1. Understanding data types
+1. Output formatting
 2. Take input
 3. Conditions 
 

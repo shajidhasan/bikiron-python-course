@@ -84,6 +84,13 @@ Your imagination is the limit!
 
 ---
 
+# How to get help 🤝
+
+- যে লেকচারে সমস্যা, সেই লেকচারে কমেন্ট করলে আমাদের কেউ তোমাকে সাহায্য করবে।
+- 
+
+---
+
 # Things we shall do today
 
 - পাইথন ইনস্টল করবো
@@ -96,4 +103,10 @@ Your imagination is the limit!
 ---
 <!-- _class: lead -->
 
-# Let's dive in!
+# **Let's dive in!**
+
+---
+<!-- _class: lead -->
+
+# **That's it for today!**
+Don't forget to collect the notes. Link in the caption.

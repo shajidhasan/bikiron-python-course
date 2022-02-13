@@ -134,10 +134,7 @@ If all went well...
 
 ---
 
-# What you know now
+<!-- _class: lead -->
 
-- পাইথন প্রোগ্রাম রান করতে জানো।
-- কনসোলে কিছু প্রিন্ট করতে পারো।
-- **IDE**, **VSCode** ইত্যাদি সম্পর্কে জানো।
-
-Pretty exciting! 🎊
+# **What you know now**
+That's it! If you had any trouble, kindly refer to the video or ask in the group. 🎊
